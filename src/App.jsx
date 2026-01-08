@@ -1,4 +1,4 @@
-import LudoBoard from './ludoBoard'
+// import LudoBoard from './ludoBoard'
 import TodoList from './TodoList'
 import './App.css'
 
